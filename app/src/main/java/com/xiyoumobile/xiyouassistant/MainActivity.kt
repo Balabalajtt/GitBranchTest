@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //dev上的修改
-        //。。。。00
+        //。。。。000
     }
 }
