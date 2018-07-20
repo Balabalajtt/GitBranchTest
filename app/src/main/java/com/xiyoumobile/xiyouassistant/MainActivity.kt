@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //dev上的修改
-        //用AS提交dev上的修改
+        //。。。。
     }
 }
