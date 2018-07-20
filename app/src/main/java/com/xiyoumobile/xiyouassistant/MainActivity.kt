@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //dev上的修改
         //。。。。000
+        //8：54修改dev
     }
 }
