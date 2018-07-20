@@ -8,8 +8,5 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //dev上的修改
-        //。。。。000
-        //8：54修改dev
     }
 }
